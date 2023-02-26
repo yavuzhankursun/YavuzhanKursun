@@ -1,5 +1,5 @@
 ### Hi there I'm Yavuzhan
-I am a Software Engineering student. Currently, I am working on improving myself in C# and Data Science. I would like to contribute more to the community. Open-source principles.
+I am a Software Engineering student. Currently, I am working on improving myself in C#, Python, SQL and Data Science. I would like to contribute more to the community. Open-source principles.
 
 ### My email : ykurrsun@gmail.com
 
