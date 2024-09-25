@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I am a 2nd-year Software Engineering student. I am proficient in topics such as Python, C#, SQL, HTML, CSS, and GIT, and I am continuing to develop myself in the field of Back-end.</p>
+<p align="left">Hello, I am a 3rd-year Software Engineering student. I am proficient in topics such as Python, C#, SQL, HTML, CSS, and GIT, and I am continuing to develop myself in the field of Back-end.</p>
 
 ###
 
