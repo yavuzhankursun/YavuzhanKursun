@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yavuzhan</h1>
-<h3 align="center">Senior Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
   Hello! I am a <strong>4th-year Software Engineering student</strong>. <br>
