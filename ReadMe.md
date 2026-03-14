@@ -72,14 +72,6 @@ University online examination system supporting exam creation, proctoring workfl
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzhankursun&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzhankursun&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## Contact
 
