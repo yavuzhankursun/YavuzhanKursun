@@ -17,9 +17,7 @@
 
 ## About Me
 
-Software Engineer (graduating 4th-year student) with hands-on experience building production-grade full-stack applications and TUBITAK-funded machine learning research. I design scalable systems from backend APIs to interactive frontends, and apply ML techniques to solve real-world problems.
-
-**Open to US remote positions.** I bring timezone flexibility (comfortable working across US time zones), strong written English, and proven experience with asynchronous collaboration workflows including Git-based code review, documentation-driven development, and distributed team communication.
+Software Engineer with hands-on experience building production-grade full-stack applications and machine learning research funded by TUBITAK (The Scientific and Technological Research Council of Turkey). I design scalable systems from backend APIs to interactive frontends, and apply ML techniques to solve real-world problems.
 
 ---
 
@@ -64,7 +62,7 @@ Software Engineer (graduating 4th-year student) with hands-on experience buildin
 ## Featured Projects
 
 ### [turkish-economic-forecasting](https://github.com/yavuzhankursun/turkish-economic-forecasting)
-TUBITAK-funded research project applying machine learning models to forecast Turkish economic indicators. Involves data collection, feature engineering, model training and evaluation using Python and scikit-learn.
+Machine learning research project funded by TUBITAK (The Scientific and Technological Research Council of Turkey) for forecasting Turkish economic indicators. Involves data collection, feature engineering, model training and evaluation using Python and scikit-learn.
 
 ### [on-muhasebe-showcase](https://github.com/yavuzhankursun/on-muhasebe-showcase)
 Multi-tenant SaaS accounting platform built with a modern full-stack architecture. Features tenant isolation, role-based access control, and financial reporting dashboards designed for small and mid-size businesses.
@@ -77,12 +75,12 @@ University online examination system supporting exam creation, proctoring workfl
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yavuzhankursun&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzhankursun&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yavuzhankursun&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzhankursun&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ## Contact
 
-The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/yavuzhan-kursun/). I am responsive to messages and open to discussing opportunities, collaborations, or technical topics.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yavuzhan-kursun/).
