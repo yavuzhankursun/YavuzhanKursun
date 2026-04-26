@@ -28,4 +28,4 @@ Most of my time goes into two things. The first is [FinancialTracker](https://ze
 
 [LinkedIn](https://www.linkedin.com/in/yavuzhan-kursun) · [Medium](https://medium.com/@ykurrsun) · [HackerRank](https://www.hackerrank.com/ykurrsun)
 
-*Based in Turkey, open to remote roles and US-based opportunities.*
+*Based in Turkey, open to remote roles.*
