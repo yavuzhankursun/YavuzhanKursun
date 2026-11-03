@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <b>Istanbul, Türkiye</b> · Open to relocating to <b>Stockholm, Sweden</b> (work permit required) · Open to remote, hybrid and on-site roles
+  <b>Open to Relocation</b> · Open to remote, hybrid and on-site roles
 </p>
 
 ---
